@@ -29,3 +29,6 @@ export DEBIAN_FRONTEND=noninteractive
 apt-get -yq install phpmyadmin
 #Apache Config File bearbeiten und auf PHPmyadmin Config File verlinken
 echo "Include /etc/phpmyadmin/apache.conf" >> /etc/apache2/apache2.conf
+#Benötigte Erweiterungen für PHPmyadmin aktivieren
+sudo phpenmod mcrypt
+sudo phpenmod mbstring
