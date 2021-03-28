@@ -17,3 +17,5 @@ end
 
 #Anfang der Shell-Konfigurationen
 config.vm.provision "shell", inline: <<-SHELL
+#Updates durchspielen
+    sudo apt-get update
