@@ -27,3 +27,5 @@ config.vm.provision "shell", inline: <<-SHELL
 #PHPmyadmin herunterladen (ohne Interaktion)
 export DEBIAN_FRONTEND=noninteractive
 apt-get -yq install phpmyadmin
+#Apache Config File bearbeiten und auf PHPmyadmin Config File verlinken
+echo "Include /etc/phpmyadmin/apache.conf" >> /etc/apache2/apache2.conf
