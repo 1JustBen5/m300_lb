@@ -58,3 +58,10 @@ In der LB2 soll man einen Diesnt erstellen mit Vagrant, der nach dem 'vagrant up
 
 
 <br>
+
+## Quellenangabe
+
+| Beschreibung      | Quelle          |
+| --------------| -----------------|
+| FTP-Server unter Linux einrichten | https://wiki.ubuntuusers.de/MySQL/ |
+| Allgemeiner Vagrant-Syntax| Vagrant Beispiele aus der M300-Dokumentation  |
