@@ -10,4 +10,7 @@ config.vm.hostname = "ubuntu-mysql-server"
 #Anfang der Virtualbox Konfigurationen
 config.vm.provider "virtualbox" do |vb|
 #VM Name festlegen
-vb.name = "ubuntu-mysql-server"
+    vb.name = "ubuntu-mysql-server"
+#Ram Konfigurationen festlegen
+    vb.memory = "2024"
+end
