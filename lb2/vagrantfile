@@ -19,3 +19,6 @@ end
 config.vm.provision "shell", inline: <<-SHELL
 #Updates durchspielen
     sudo apt-get update
+#Webserver und Mysql-Server herunterladen
+    sudo apt install php php-gettext libapache2-mod-php
+
