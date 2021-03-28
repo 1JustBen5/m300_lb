@@ -5,3 +5,7 @@ Vagrant.configure(2) do |config|
     config.vm.network "private_network", ip: "192.168.75.200"
 #Web Server Ordner festlegen
 config.vm.synced_folder ".", "/var/www/html"
+#Hostname festlegen
+config.vm.hostname = "ubuntu-mysql-server"
+#Anfang der Virtualbox Konfigurationen
+config.vm.provider "virtualbox" do |vb|
