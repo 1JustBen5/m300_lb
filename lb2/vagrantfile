@@ -19,6 +19,9 @@ end
 config.vm.provision "shell", inline: <<-SHELL
 #Updates durchspielen
     sudo apt-get update
-#Webserver und Mysql-Server herunterladen
+#Webserver und Mysql-Server herunterladen und das nötige Passwort festlegen (password)
     sudo apt install php php-gettext libapache2-mod-php
+    sudo debconf-set-selections <<< 'mysql-server mysql-server/root_password password password'
+    sudo debconf-set-selections <<< 'mysql-server mysql-server/root_password_again password password'
+    sudo apt-get -y install php libapache2-mod-php php-curl php-cli php-mysql php-gd mysql-client mysql-server 
 
