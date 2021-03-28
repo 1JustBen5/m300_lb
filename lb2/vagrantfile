@@ -14,3 +14,6 @@ Vagrant.configure(2) do |config|
 #Ram Konfigurationen festlegen
     vb.memory = "2024"
 end
+
+#Anfang der Shell-Konfigurationen
+config.vm.provision "shell", inline: <<-SHELL
