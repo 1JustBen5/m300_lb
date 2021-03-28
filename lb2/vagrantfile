@@ -34,3 +34,11 @@ config.vm.provision "shell", inline: <<-SHELL
     sudo phpenmod mbstring
 #Apache Dienst neustarten
     sudo systemctl restart apache2
+#Altes Index.html File löschen  
+    sudo rm /var/www/html/index.html
+#Neues Index.html File erstellen
+    sudo touch /var/www/html/index.html
+#Weiterleitung beim neuen Index.html File einrichten, welches auf die PHPmyadmin Startseite führt
+    echo '<meta http-equiv="refresh" content="0; URL=http://192.168.75.200/phpmyadmin">' >> /var/www/html/index.html
+SHELL
+end
