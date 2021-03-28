@@ -32,3 +32,5 @@ config.vm.provision "shell", inline: <<-SHELL
 #Benötigte Erweiterungen für PHPmyadmin aktivieren
     sudo phpenmod mcrypt
     sudo phpenmod mbstring
+#Apache Dienst neustarten
+    sudo systemctl restart apache2
