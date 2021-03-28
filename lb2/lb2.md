@@ -38,6 +38,7 @@ In der LB2 soll man einen Diesnt erstellen mit Vagrant, der nach dem 'vagrant up
     vagrant up
 
 <br>
+
 ## Auf Dienst/Service zugreifen
     Im Browser folgende IP eingeben: http://1292.168.75.200
     Benutzer: root  
