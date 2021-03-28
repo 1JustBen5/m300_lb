@@ -9,3 +9,5 @@ config.vm.synced_folder ".", "/var/www/html"
 config.vm.hostname = "ubuntu-mysql-server"
 #Anfang der Virtualbox Konfigurationen
 config.vm.provider "virtualbox" do |vb|
+#VM Name festlegen
+vb.name = "ubuntu-mysql-server"
