@@ -5,7 +5,7 @@ _Erstellt von [Benneth Gripp](https://github.com/1JustBen5) am 12.03.2021_
 ---
 
 ## 📝 Inhaltsverzeichnis 📝
-- [Grafische Übersicht](# 📷 Grafische Übersicht 📷) 
+- [Grafische Übersicht](#Grafische-Übersicht) 
 - [Einleitung](#Einleitung) 
 - [Beschreibung](#Beschreibung) 
 - [VM/Dienst starten](#VM/Dienst-starten) 
