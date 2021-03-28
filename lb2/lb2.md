@@ -45,5 +45,16 @@ In der LB2 soll man einen Diesnt erstellen mit Vagrant, der nach dem 'vagrant up
     Passwort: password
 
 <br>
+## Sicherheit
+* Benutzer heisst 'root' und Passwort lautet 'password'
+* VM befindet sich in privaten Netzwerk und ist somit nicht ausserhalb der Netzwerkes erreichbar
+
+<br>
+
+## Tests
+* Getestet wurde über Google Chrome
+* Service ist über die Adresszeile ftp://192.168.75.200 erreichbar
+* Test lief erfolgreich über Google Chrome
 
 
+<br>
