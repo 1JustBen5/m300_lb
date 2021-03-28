@@ -2,7 +2,9 @@
 
 _Erstellt von [Benneth Gripp](https://github.com/1JustBen5) am 12.03.2021_
 
-## Inhaltsverzeichnis
+---
+
+## 📝 Inhaltsverzeichnis 📝
 - [Grafische Übersicht](#Grafische-Übersicht) 
 - [Einleitung](#Einleitung) 
 - [Beschreibung](#Beschreibung) 
@@ -14,17 +16,17 @@ _Erstellt von [Benneth Gripp](https://github.com/1JustBen5) am 12.03.2021_
 
 <br>
 
-## Grafische Übersicht
+## 📷 Grafische Übersicht 📷
 ![Grafische Übersicht](Pictures/Grafische_Übersicht.png)
 
 <br>
 
-## Einleitung
+## 🔖 Einleitung 🔖
 In der LB2 soll man einen Diesnt erstellen mit Vagrant, der nach dem 'vagrant up' direkt verfügbar ist. Ich habe mich dabei für einen mySQL-Server entschieden, bei dem die Datenbanken über phpMyAdmin direkt verfügbar sind.
 
 <br>
 
-## Beschreibung
+## 📚 Beschreibung 📚
   * mySQL Server mit der IP 192.168.75.200
   * phpMyAdmin als GUI
   * Von aussen per jeglichen Browser verfügbar
@@ -34,24 +36,25 @@ In der LB2 soll man einen Diesnt erstellen mit Vagrant, der nach dem 'vagrant up
 
 <br>
 
-## VM/Dienst starten
+## 🚩 VM/Dienst starten 🚩
     vagrant up
 
 <br>
 
-## Auf Dienst/Service zugreifen
+## 🔑 Auf Dienst/Service zugreifen 🔑
     Im Browser folgende IP eingeben: http://1292.168.75.200
     Benutzer: root  
     Passwort: password
 
 <br>
-## Sicherheit
+
+## 🔐 Sicherheit 🔐
 * Benutzer heisst 'root' und Passwort lautet 'password'
 * VM befindet sich in privaten Netzwerk und ist somit nicht ausserhalb der Netzwerkes erreichbar
 
 <br>
 
-## Tests
+## 🛠 Tests 🛠
 * Getestet wurde über Google Chrome
 * Service ist über die Adresszeile ftp://192.168.75.200 erreichbar
 * Test lief erfolgreich über Google Chrome
@@ -59,7 +62,7 @@ In der LB2 soll man einen Diesnt erstellen mit Vagrant, der nach dem 'vagrant up
 
 <br>
 
-## Quellenangabe
+## 🔎 Quellenangabe 🔍
 
 | Beschreibung      | Quelle          |
 | --------------| -----------------|
