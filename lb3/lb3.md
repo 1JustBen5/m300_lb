@@ -1,8 +1,8 @@
 #  📒 M300 LB3 Dokumentation  📒
 
 ## Inhaltsverzeicnis
-- [🏁-Projekteinleitung-🏁](#Projekteinleitung)
-- [Beschreibung-des-ausgewählten-Service](#Beschreibung des ausgewählten Service)
+- [🏁 Projekteinleitung 🏁](#Projekteinleitung)
+- [Beschreibung des ausgewählten Service](#Beschreibung-des-ausgewählten-Service)
 
 <br>
 
