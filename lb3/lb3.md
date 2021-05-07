@@ -1,6 +1,6 @@
 #  📒 M300 LB3 Dokumentation  📒
-![DockerPB](https://owncloud.com/wp-content/uploads/2018/09/ownCloud-docker.png)
-![ownCloudLogo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/OwnCloud2-Logo.svg/1200px-OwnCloud2-Logo.svg.png)
+![DockerPB](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdeveloper.ibm.com%2Fbluemix%2Fwp-content%2Fuploads%2Fsites%2F20%2F2015%2F04%2Fdocker-100275159-orig.jpg&f=1&nofb=1)
+![ownCloudLogo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdaniel.molkentin.net%2Fwp-content%2Fuploads%2Fsites%2F2%2F2013%2F03%2Fowncloud-square-logo.png&f=1&nofb=1)
 
 _Erstellt von [Benneth Gripp](https://github.com/1JustBen5) am 20.04.2021_
 ## Inhaltsverzeicnis
