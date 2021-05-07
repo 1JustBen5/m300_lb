@@ -2,7 +2,7 @@
 
 ## Inhaltsverzeicnis
 - [🏁 Projekteinleitung 🏁](#Projekteinleitung)
-- [Beschreibung des ausgewählten Service](#Beschreibung-des-ausgewählten-Service)
+- [Was ist OwnCloud?](#Was-ist-OwnCloud?)
 
 <br>
 
@@ -12,4 +12,6 @@ Dabei soll bei der Ausführung von docker-compose up der Container mit dem konfi
 
 <br>
 
-## Beschreibung des ausgewählten Service
+## Was ist OwnCloud?
+Die Ziele von ownCloud sind ehrgeizig: Einfache Einrichtung und Verwaltung der Cloud und allgegenwärtiger Zugriff auf Daten von verschiedenen Geräten aus, wo auch immer diese Daten liegen mögen - auf lokalem Speicher, gehostetem Speicher oder sogar in sozialen Netzwerken. ownCloud bietet auch die Möglichkeit, Daten von verschiedenen Anbietern zu mischen und zu verbinden, wobei Datenschutz und Sicherheit gewahrt bleiben
+![Infografik](media/infografik.png)
