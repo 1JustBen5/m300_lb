@@ -18,7 +18,7 @@ Dabei soll bei der Ausführung von docker-compose up der Container mit dem konfi
 <br>
 
 ## Grafische Übersicht
-![GrafischeÜbersicht](media/GrafischeÜbersicht1.png)
+![GrafischeÜbersicht](GrafischeÜbersicht1.png)
 
 <br>
 
