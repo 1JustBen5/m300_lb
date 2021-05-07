@@ -23,8 +23,7 @@ services:
     image: owncloud/server:${OWNCLOUD_VERSION}
     container_name: owncloud_server
     restart: always
-    ports:
-      - (8080)
+    ports: 8080
     depends_on:
       - mariadb
       - redis
