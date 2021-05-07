@@ -1,5 +1,8 @@
 #  📒 M300 LB3 Dokumentation  📒
+![DockerPB](https://owncloud.com/wp-content/uploads/2018/09/ownCloud-docker.png)
+![ownCloudLogo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/OwnCloud2-Logo.svg/1200px-OwnCloud2-Logo.svg.png)
 
+_Erstellt von [Benneth Gripp](https://github.com/1JustBen5) am 20.04.2021_
 ## Inhaltsverzeicnis
 - [Projekteinleitung](#Projekteinleitung)
 - [Was ist ownCloud?](#Was-ist-ownCloud?)
