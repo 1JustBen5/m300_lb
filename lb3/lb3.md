@@ -1,5 +1,5 @@
 #  📒 M300 LB3 Dokumentation  📒
-![DockerPB](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdeveloper.ibm.com%2Fbluemix%2Fwp-content%2Fuploads%2Fsites%2F20%2F2015%2F04%2Fdocker-100275159-orig.jpg&f=1&nofb=1)
+![DockerPB](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd15shllkswkct0.cloudfront.net%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2017%2F08%2Fdocker_logo.png&f=1&nofb=1)
 ![ownCloudLogo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdaniel.molkentin.net%2Fwp-content%2Fuploads%2Fsites%2F2%2F2013%2F03%2Fowncloud-square-logo.png&f=1&nofb=1)
 
 _Erstellt von [Benneth Gripp](https://github.com/1JustBen5) am 20.04.2021_
