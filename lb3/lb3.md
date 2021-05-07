@@ -22,4 +22,11 @@ Die Ziele von ownCloud sind ehrgeizig: Einfache Einrichtung und Verwaltung der C
 
 <br>
 
+## Grafische Übersicht
+![GrafischeÜbersicht](media/GrafischeÜbersicht.png)
+
+<br>
+
 ## ownCloud Verwendung
+
+<br>
